@@ -1,0 +1,6 @@
+[submodule "simplenote-react-native"]
+	path = simplenote-react-native
+	url = https://github.com/gabrieldonadel/simplenote-react-native
+[submodule "NetNewsWire"]
+	path = NetNewsWire
+	url = https://github.com/gabrieldonadel/NetNewsWire
