@@ -4,3 +4,6 @@
 [submodule "NetNewsWire"]
 	path = NetNewsWire
 	url = https://github.com/gabrieldonadel/NetNewsWire
+[submodule "IceCubesApp"]
+	path = IceCubesApp
+	url = git@github.com:gabrieldonadel/IceCubesApp.git

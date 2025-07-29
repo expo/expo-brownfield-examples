@@ -6,8 +6,14 @@ A collection of Expo brownfield apps
 
 ## iOS
 
+### UIKit
+
 - [simplenote-react-native](https://github.com/gabrieldonadel/simplenote-react-native)
 - [NetNewsWire](https://github.com/gabrieldonadel/NetNewsWire)
+
+### SwiftUI
+
+- [IceCubesApp](https://github.com/gabrieldonadel/IceCubesApp)
 
 ## Integration steps
 
