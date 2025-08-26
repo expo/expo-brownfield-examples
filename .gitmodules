@@ -7,3 +7,6 @@
 [submodule "IceCubesApp"]
 	path = IceCubesApp
 	url = git@github.com:gabrieldonadel/IceCubesApp.git
+[submodule "AntennaPod"]
+	path = AntennaPod
+	url = git@github.com:gabrieldonadel/AntennaPod.git

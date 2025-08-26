@@ -4,16 +4,18 @@ A collection of Expo brownfield apps
 
 ## Android
 
+- [AntennaPod](https://github.com/gabrieldonadel/AntennaPod): Integrated project using monorepo approach
+
 ## iOS
 
 ### UIKit
 
-- [simplenote-react-native](https://github.com/gabrieldonadel/simplenote-react-native)
-- [NetNewsWire](https://github.com/gabrieldonadel/NetNewsWire)
+- [simplenote-react-native](https://github.com/gabrieldonadel/simplenote-react-native): Integrated project using monorepo approach
+- [NetNewsWire](https://github.com/gabrieldonadel/NetNewsWire): Integrated project using monorepo approach
 
 ### SwiftUI
 
-- [IceCubesApp](https://github.com/gabrieldonadel/IceCubesApp)
+- [IceCubesApp](https://github.com/gabrieldonadel/IceCubesApp): Integrated project using monorepo approach
 
 ## Integration steps
 
