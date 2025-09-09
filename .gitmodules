@@ -10,3 +10,6 @@
 [submodule "AntennaPod"]
 	path = AntennaPod
 	url = git@github.com:gabrieldonadel/AntennaPod.git
+[submodule "BlankIOS"]
+	path = BlankIOS
+	url = git@github.com:gabrieldonadel/BlankIOS.git
