@@ -13,3 +13,6 @@
 [submodule "BlankIOS"]
 	path = BlankIOS
 	url = git@github.com:gabrieldonadel/BlankIOS.git
+[submodule "BlankAndroid"]
+	path = BlankAndroid
+	url = git@github.com:gabrieldonadel/BlankAndroid.git
