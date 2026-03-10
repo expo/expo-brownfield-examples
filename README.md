@@ -11,6 +11,7 @@ A collection of Expo brownfield apps
 
 ### UIKit
 
+- [wikipedia-ios](https://github.com/gabrieldonadel/wikipedia-ios): Isolated approach using XCFramework
 - [simplenote-react-native](https://github.com/gabrieldonadel/simplenote-react-native): Integrated project using monorepo approach
 - [NetNewsWire](https://github.com/gabrieldonadel/NetNewsWire): Integrated project using monorepo approach
 - [BlankIOS](https://github.com/gabrieldonadel/BlankIOS): Integrated project using monorepo approach

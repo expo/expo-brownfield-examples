@@ -16,3 +16,6 @@
 [submodule "BlankAndroid"]
 	path = BlankAndroid
 	url = git@github.com:gabrieldonadel/BlankAndroid.git
+[submodule "wikipedia-ios"]
+	path = wikipedia-ios
+	url = git@github.com:gabrieldonadel/wikipedia-ios.git
