@@ -22,7 +22,7 @@ A collection of Expo brownfield apps
 
 ## Integration steps
 
-Check commits inside each repo for detailed steps
+Check commits inside each repo for detailed steps, full instructions can be found in the [expo-brownfield documentation](https://docs.expo.dev/brownfield/overview/).
 
 ### Integrated
 
@@ -44,3 +44,9 @@ Check commits inside each repo for detailed steps
 4. **Add React Native view**: Create a new Swift file in the `NetNewsWire-iOS` target, for example `ReactNativeView.swift`, and implement a basic React Native view.
 
 ### Isolated
+
+1. **Create the Expo app**: Run `npx create-expo-app exp` to set up a new Expo app.
+
+2. **Install expo-brownfield**: Add expo-brownfield to your project `npx expo install expo-brownfield` and generate a XCFramework.
+
+3. **Add React Native view**: Integrate the Expo app XCFramework into the existing iOS app.
