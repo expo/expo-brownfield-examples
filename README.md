@@ -15,6 +15,7 @@ A collection of Expo brownfield apps
 - [simplenote-react-native](https://github.com/gabrieldonadel/simplenote-react-native): Integrated project using monorepo approach
 - [NetNewsWire](https://github.com/gabrieldonadel/NetNewsWire): Integrated project using monorepo approach
 - [BlankIOS](https://github.com/gabrieldonadel/BlankIOS): Integrated project using monorepo approach
+- [ish](https://github.com/briones-agent/ish): Isolated approach using local Swift Package — Objective-C host with a C/asm core ([recording](captures/05-ish/recording.mp4))
 
 ### SwiftUI
 

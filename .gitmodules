@@ -19,3 +19,6 @@
 [submodule "wikipedia-ios"]
 	path = wikipedia-ios
 	url = git@github.com:gabrieldonadel/wikipedia-ios.git
+[submodule "ish"]
+	path = ish
+	url = https://github.com/briones-agent/ish.git
