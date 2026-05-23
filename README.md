@@ -16,6 +16,7 @@ A collection of Expo brownfield apps
 - [NetNewsWire](https://github.com/gabrieldonadel/NetNewsWire): Integrated project using monorepo approach
 - [BlankIOS](https://github.com/gabrieldonadel/BlankIOS): Integrated project using monorepo approach
 - [ish](https://github.com/briones-agent/ish): Isolated approach using local Swift Package — Objective-C host with a C/asm core ([recording](https://raw.githubusercontent.com/expo/expo-brownfield-examples/media/05-ish/recording.mp4))
+- [yattee](https://github.com/briones-agent/yattee): Isolated approach using local Swift Package — SwiftUI YouTube player ([recording](https://raw.githubusercontent.com/expo/expo-brownfield-examples/media/38-yattee/recording.mp4))
 
 ### SwiftUI
 
