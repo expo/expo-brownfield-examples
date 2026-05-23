@@ -25,3 +25,6 @@
 [submodule "yattee"]
 	path = yattee
 	url = https://github.com/briones-agent/yattee.git
+[submodule "KeePassium"]
+	path = KeePassium
+	url = https://github.com/briones-agent/KeePassium.git
