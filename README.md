@@ -23,6 +23,7 @@ A collection of Expo brownfield apps
 
 - [IceCubesApp](https://github.com/gabrieldonadel/IceCubesApp): Integrated project using monorepo approach
 - [yattee](https://github.com/briones-agent/yattee): Isolated approach using local Swift Package — SwiftUI YouTube player ([recording](https://raw.githubusercontent.com/expo/expo-brownfield-examples/media/38-yattee/recording.mp4))
+- [wallabag-ios](https://github.com/briones-agent/ios-app): Isolated approach using local Swift Package (SDK 56 canary with the **`expo-image` SPM-deps fix**) — SwiftUI read-it-later app with a bidirectional reading-list inspector ([recording](https://raw.githubusercontent.com/expo/expo-brownfield-examples/media/90-wallabag-ios/recording.mp4))
 
 ## Integration steps
 
