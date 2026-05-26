@@ -28,3 +28,6 @@
 [submodule "KeePassium"]
 	path = KeePassium
 	url = https://github.com/briones-agent/KeePassium.git
+[submodule "OsmAnd-iOS"]
+	path = OsmAnd-iOS
+	url = https://github.com/briones-agent/OsmAnd-iOS.git
