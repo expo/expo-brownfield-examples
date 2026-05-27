@@ -40,3 +40,6 @@
 [submodule "Signal-iOS"]
 	path = Signal-iOS
 	url = https://github.com/briones-agent/Signal-iOS
+[submodule "Nextcloud-iOS"]
+	path = Nextcloud-iOS
+	url = https://github.com/briones-agent/Nextcloud-iOS
