@@ -20,6 +20,7 @@ A collection of Expo brownfield apps
 - [OsmAnd-iOS](https://github.com/briones-agent/OsmAnd-iOS): Isolated approach using local Swift Package (SDK 57 canary) — ObjC++ map app with bidirectional shared map state ([recording](https://raw.githubusercontent.com/expo/expo-brownfield-examples/media/84-osmand-ios/recording.mp4))
 - [firefox-ios](https://github.com/briones-agent/firefox-ios): Isolated approach using local Swift Package (SDK 56 canary) — UIKit browser with a Bookmarks Inspector RN screen wired through Firefox's custom `Fennec` build configurations + Swift 6 strict concurrency ([recording](https://raw.githubusercontent.com/expo/expo-brownfield-examples/media/08-firefox-ios/recording.mp4))
 - [Signal-iOS](https://github.com/briones-agent/Signal-iOS): Isolated approach using local Swift Package (SDK 56 canary) — UIKit messenger demonstrating the **Navigation API** (`popToNative()` from JS + `setNativeBackEnabled`) with a Safety Center RN screen ([recording](https://raw.githubusercontent.com/expo/expo-brownfield-examples/media/10-signal-ios/recording.mp4))
+- [Nextcloud-iOS](https://github.com/briones-agent/Nextcloud-iOS): Isolated approach using local Swift Package (SDK 56 canary) — UIKit cloud-files client with a Files Quick Look RN screen (storage quota bar + shared-file indicators), Navigation API + DCO-signed commits ([recording](https://raw.githubusercontent.com/expo/expo-brownfield-examples/media/51-nextcloud-ios/recording.mp4))
 
 ### SwiftUI
 
