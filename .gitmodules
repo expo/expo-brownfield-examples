@@ -34,3 +34,6 @@
 [submodule "wallabag-ios"]
 	path = wallabag-ios
 	url = https://github.com/briones-agent/ios-app.git
+[submodule "firefox-ios"]
+	path = firefox-ios
+	url = https://github.com/briones-agent/firefox-ios
