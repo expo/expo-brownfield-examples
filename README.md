@@ -6,6 +6,7 @@ A collection of Expo brownfield apps
 
 - [AntennaPod](https://github.com/gabrieldonadel/AntennaPod): Integrated project using monorepo approach
 - [BlankAndroid](https://github.com/gabrieldonadel/BlankAndroid): Integrated project using monorepo approach
+- [NewPipe](https://github.com/briones-agent/NewPipe): Isolated approach using AAR (SDK 56 canary) — Kotlin/Java media client, first user of `expo-brownfield build:android --fused` ([PR #45878](https://github.com/expo/expo/pull/45878)) which bundles every autolinked Expo module + heavy transitives into a single AAR ([recording](https://raw.githubusercontent.com/expo/expo-brownfield-examples/media/02-newpipe/newpipe-expo.mp4))
 
 ## iOS
 
