@@ -43,3 +43,7 @@
 [submodule "Nextcloud-iOS"]
 	path = Nextcloud-iOS
 	url = https://github.com/briones-agent/Nextcloud-iOS
+[submodule "NewPipe"]
+	path = NewPipe
+	url = https://github.com/briones-agent/NewPipe.git
+	branch = dev
