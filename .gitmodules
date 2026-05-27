@@ -47,3 +47,6 @@
 	path = NewPipe
 	url = https://github.com/briones-agent/NewPipe.git
 	branch = dev
+[submodule "pocket-casts-ios"]
+	path = pocket-casts-ios
+	url = https://github.com/briones-agent/pocket-casts-ios
