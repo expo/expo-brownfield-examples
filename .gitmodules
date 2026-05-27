@@ -37,3 +37,6 @@
 [submodule "firefox-ios"]
 	path = firefox-ios
 	url = https://github.com/briones-agent/firefox-ios
+[submodule "Signal-iOS"]
+	path = Signal-iOS
+	url = https://github.com/briones-agent/Signal-iOS

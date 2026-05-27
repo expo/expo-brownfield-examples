@@ -19,6 +19,7 @@ A collection of Expo brownfield apps
 - [KeePassium](https://github.com/briones-agent/KeePassium): Isolated approach using local Swift Package — UIKit password manager with **bidirectional shared state** (`useSharedState` ↔ `BrownfieldState`) + native↔RN messaging ([recording](https://raw.githubusercontent.com/expo/expo-brownfield-examples/media/61-keepassium/recording.mp4))
 - [OsmAnd-iOS](https://github.com/briones-agent/OsmAnd-iOS): Isolated approach using local Swift Package (SDK 57 canary) — ObjC++ map app with bidirectional shared map state ([recording](https://raw.githubusercontent.com/expo/expo-brownfield-examples/media/84-osmand-ios/recording.mp4))
 - [firefox-ios](https://github.com/briones-agent/firefox-ios): Isolated approach using local Swift Package (SDK 56 canary) — UIKit browser with a Bookmarks Inspector RN screen wired through Firefox's custom `Fennec` build configurations + Swift 6 strict concurrency ([recording](https://raw.githubusercontent.com/expo/expo-brownfield-examples/media/08-firefox-ios/recording.mp4))
+- [Signal-iOS](https://github.com/briones-agent/Signal-iOS): Isolated approach using local Swift Package (SDK 56 canary) — UIKit messenger demonstrating the **Navigation API** (`popToNative()` from JS + `setNativeBackEnabled`) with a Safety Center RN screen ([recording](https://raw.githubusercontent.com/expo/expo-brownfield-examples/media/10-signal-ios/recording.mp4))
 
 ### SwiftUI
 
