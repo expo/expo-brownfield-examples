@@ -29,6 +29,7 @@ A collection of Expo brownfield apps
 - [IceCubesApp](https://github.com/gabrieldonadel/IceCubesApp): Integrated project using monorepo approach
 - [yattee](https://github.com/briones-agent/yattee): Isolated approach using local Swift Package — SwiftUI YouTube player ([recording](https://raw.githubusercontent.com/expo/expo-brownfield-examples/media/38-yattee/recording.mp4))
 - [wallabag-ios](https://github.com/briones-agent/ios-app): Isolated approach using local Swift Package (SDK 56 canary with the **`expo-image` SPM-deps fix**) — SwiftUI read-it-later app with a bidirectional reading-list inspector ([recording](https://raw.githubusercontent.com/expo/expo-brownfield-examples/media/90-wallabag-ios/recording.mp4))
+- [element-x-ios](https://github.com/briones-agent/element-x-ios): Isolated approach using local Swift Package (SDK 56 canary) — SwiftUI Matrix client built on Element X's `AppCoordinator` / WindowGroup architecture, with a React Native **Safety Dashboard** presented on a dedicated `UIWindow` overlay (`.alert + 1`) so it floats over the SwiftUI scene without fighting the host's view-swap flow; bidirectional shared state (encrypted-sessions, verified-devices, recent-rooms feed), `BrownfieldMessaging` (`OPEN_ROOM` / `VERIFY_KEYS`), Navigation API (`popToNative()`), and `expo-image` avatars ([recording](https://raw.githubusercontent.com/expo/expo-brownfield-examples/media/75-element-x-ios/recording.mp4))
 
 ## Integration steps
 
