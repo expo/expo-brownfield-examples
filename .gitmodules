@@ -50,3 +50,6 @@
 [submodule "pocket-casts-ios"]
 	path = pocket-casts-ios
 	url = https://github.com/briones-agent/pocket-casts-ios
+[submodule "element-x-ios"]
+	path = element-x-ios
+	url = https://github.com/briones-agent/element-x-ios.git
