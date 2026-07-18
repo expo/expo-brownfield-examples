@@ -56,3 +56,6 @@
 [submodule "Signal-Android"]
 	path = Signal-Android
 	url = https://github.com/briones-agent/Signal-Android.git
+[submodule "mihon"]
+	path = mihon
+	url = https://github.com/briones-agent/mihon.git
