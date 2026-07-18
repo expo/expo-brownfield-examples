@@ -53,3 +53,6 @@
 [submodule "element-x-ios"]
 	path = element-x-ios
 	url = https://github.com/briones-agent/element-x-ios.git
+[submodule "Signal-Android"]
+	path = Signal-Android
+	url = https://github.com/briones-agent/Signal-Android.git
