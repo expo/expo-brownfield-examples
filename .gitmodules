@@ -59,3 +59,6 @@
 [submodule "organicmaps"]
 	path = organicmaps
 	url = https://github.com/briones-agent/organicmaps.git
+[submodule "LibreTube"]
+	path = LibreTube
+	url = https://github.com/briones-agent/LibreTube.git
