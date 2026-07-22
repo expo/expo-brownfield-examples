@@ -65,3 +65,9 @@
 [submodule "OnionBrowser"]
 	path = OnionBrowser
 	url = https://github.com/briones-agent/OnionBrowser.git
+[submodule "mastodon-ios"]
+	path = mastodon-ios
+	url = https://github.com/briones-agent/mastodon-ios.git
+[submodule "damus"]
+	path = damus
+	url = https://github.com/briones-agent/damus.git
