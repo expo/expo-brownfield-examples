@@ -62,3 +62,6 @@
 [submodule "thunderbird-android"]
 	path = thunderbird-android
 	url = https://github.com/briones-agent/thunderbird-android.git
+[submodule "damus"]
+	path = damus
+	url = https://github.com/briones-agent/damus.git
