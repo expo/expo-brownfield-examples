@@ -62,6 +62,9 @@
 [submodule "thunderbird-android"]
 	path = thunderbird-android
 	url = https://github.com/briones-agent/thunderbird-android.git
+[submodule "OnionBrowser"]
+	path = OnionBrowser
+	url = https://github.com/briones-agent/OnionBrowser.git
 [submodule "mastodon-ios"]
 	path = mastodon-ios
 	url = https://github.com/briones-agent/mastodon-ios.git
