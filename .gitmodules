@@ -56,6 +56,48 @@
 [submodule "Signal-Android"]
 	path = Signal-Android
 	url = https://github.com/briones-agent/Signal-Android.git
+[submodule "organicmaps"]
+	path = organicmaps
+	url = https://github.com/briones-agent/organicmaps.git
+[submodule "Anki-Android"]
+	path = Anki-Android
+	url = https://github.com/briones-agent/Anki-Android.git
+[submodule "Aegis"]
+	path = Aegis
+	url = https://github.com/briones-agent/Aegis.git
+[submodule "thunderbird-android"]
+	path = thunderbird-android
+	url = https://github.com/briones-agent/thunderbird-android.git
+[submodule "OnionBrowser"]
+	path = OnionBrowser
+	url = https://github.com/briones-agent/OnionBrowser.git
+[submodule "mastodon-ios"]
+	path = mastodon-ios
+	url = https://github.com/briones-agent/mastodon-ios.git
+[submodule "damus"]
+	path = damus
+	url = https://github.com/briones-agent/damus.git
+[submodule "mlem"]
+	path = mlem
+	url = https://github.com/briones-agent/mlem.git
+[submodule "cryptomator-ios"]
+	path = cryptomator-ios
+	url = https://github.com/briones-agent/ios-1.git
+[submodule "kiwix-apple"]
+	path = kiwix-apple
+	url = https://github.com/briones-agent/kiwix-apple.git
+[submodule "openhab-ios"]
+	path = openhab-ios
+	url = https://github.com/briones-agent/openhab-ios.git
+[submodule "mammoth"]
+	path = mammoth
+	url = https://github.com/briones-agent/mammoth.git
+[submodule "InnerTune"]
+	path = InnerTune
+	url = https://github.com/briones-agent/InnerTune.git
+[submodule "AmazeFileManager"]
+	path = AmazeFileManager
+	url = https://github.com/briones-agent/AmazeFileManager.git
 [submodule "mihon"]
 	path = mihon
 	url = https://github.com/briones-agent/mihon.git
