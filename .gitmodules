@@ -71,3 +71,6 @@
 [submodule "damus"]
 	path = damus
 	url = https://github.com/briones-agent/damus.git
+[submodule "openhab-ios"]
+	path = openhab-ios
+	url = https://github.com/briones-agent/openhab-ios.git
