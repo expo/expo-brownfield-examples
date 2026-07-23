@@ -71,3 +71,6 @@
 [submodule "damus"]
 	path = damus
 	url = https://github.com/briones-agent/damus.git
+[submodule "mlem"]
+	path = mlem
+	url = https://github.com/briones-agent/mlem.git
