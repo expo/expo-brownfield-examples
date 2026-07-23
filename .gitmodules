@@ -92,3 +92,6 @@
 [submodule "mammoth"]
 	path = mammoth
 	url = https://github.com/briones-agent/mammoth.git
+[submodule "a-shell"]
+	path = a-shell
+	url = https://github.com/briones-agent/a-shell.git
