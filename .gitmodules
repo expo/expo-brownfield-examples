@@ -89,3 +89,6 @@
 [submodule "mammoth"]
 	path = mammoth
 	url = https://github.com/briones-agent/mammoth.git
+[submodule "bitwarden-ios"]
+	path = bitwarden-ios
+	url = https://github.com/briones-agent/ios-2.git
