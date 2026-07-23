@@ -98,3 +98,6 @@
 [submodule "AmazeFileManager"]
 	path = AmazeFileManager
 	url = https://github.com/briones-agent/AmazeFileManager.git
+[submodule "FairEmail"]
+	path = FairEmail
+	url = https://github.com/briones-agent/FairEmail.git
