@@ -89,3 +89,6 @@
 [submodule "mammoth"]
 	path = mammoth
 	url = https://github.com/briones-agent/mammoth.git
+[submodule "apple-browsers"]
+	path = apple-browsers
+	url = https://github.com/briones-agent/apple-browsers.git
