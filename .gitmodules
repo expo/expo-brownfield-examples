@@ -71,6 +71,9 @@
 [submodule "damus"]
 	path = damus
 	url = https://github.com/briones-agent/damus.git
+[submodule "cryptomator-ios"]
+	path = cryptomator-ios
+	url = https://github.com/briones-agent/ios-1.git
 [submodule "kiwix-apple"]
 	path = kiwix-apple
 	url = https://github.com/briones-agent/kiwix-apple.git
