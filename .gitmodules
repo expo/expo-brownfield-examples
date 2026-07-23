@@ -89,3 +89,7 @@
 [submodule "mammoth"]
 	path = mammoth
 	url = https://github.com/briones-agent/mammoth.git
+[submodule "wire-ios"]
+	path = wire-ios
+	url = https://github.com/briones-agent/wire-ios.git
+	branch = develop
