@@ -95,3 +95,6 @@
 [submodule "InnerTune"]
 	path = InnerTune
 	url = https://github.com/briones-agent/InnerTune.git
+[submodule "AmazeFileManager"]
+	path = AmazeFileManager
+	url = https://github.com/briones-agent/AmazeFileManager.git
