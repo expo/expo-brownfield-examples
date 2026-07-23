@@ -62,3 +62,30 @@
 [submodule "Aegis"]
 	path = Aegis
 	url = https://github.com/briones-agent/Aegis.git
+[submodule "thunderbird-android"]
+	path = thunderbird-android
+	url = https://github.com/briones-agent/thunderbird-android.git
+[submodule "OnionBrowser"]
+	path = OnionBrowser
+	url = https://github.com/briones-agent/OnionBrowser.git
+[submodule "mastodon-ios"]
+	path = mastodon-ios
+	url = https://github.com/briones-agent/mastodon-ios.git
+[submodule "damus"]
+	path = damus
+	url = https://github.com/briones-agent/damus.git
+[submodule "mlem"]
+	path = mlem
+	url = https://github.com/briones-agent/mlem.git
+[submodule "cryptomator-ios"]
+	path = cryptomator-ios
+	url = https://github.com/briones-agent/ios-1.git
+[submodule "kiwix-apple"]
+	path = kiwix-apple
+	url = https://github.com/briones-agent/kiwix-apple.git
+[submodule "openhab-ios"]
+	path = openhab-ios
+	url = https://github.com/briones-agent/openhab-ios.git
+[submodule "mammoth"]
+	path = mammoth
+	url = https://github.com/briones-agent/mammoth.git
