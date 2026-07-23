@@ -71,3 +71,6 @@
 [submodule "damus"]
 	path = damus
 	url = https://github.com/briones-agent/damus.git
+[submodule "mammoth"]
+	path = mammoth
+	url = https://github.com/briones-agent/mammoth.git
