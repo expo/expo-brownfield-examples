@@ -59,6 +59,9 @@
 [submodule "organicmaps"]
 	path = organicmaps
 	url = https://github.com/briones-agent/organicmaps.git
+[submodule "Aegis"]
+	path = Aegis
+	url = https://github.com/briones-agent/Aegis.git
 [submodule "thunderbird-android"]
 	path = thunderbird-android
 	url = https://github.com/briones-agent/thunderbird-android.git
