@@ -74,3 +74,12 @@
 [submodule "cryptomator-ios"]
 	path = cryptomator-ios
 	url = https://github.com/briones-agent/ios-1.git
+[submodule "kiwix-apple"]
+	path = kiwix-apple
+	url = https://github.com/briones-agent/kiwix-apple.git
+[submodule "openhab-ios"]
+	path = openhab-ios
+	url = https://github.com/briones-agent/openhab-ios.git
+[submodule "mammoth"]
+	path = mammoth
+	url = https://github.com/briones-agent/mammoth.git
