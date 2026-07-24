@@ -59,6 +59,9 @@
 [submodule "organicmaps"]
 	path = organicmaps
 	url = https://github.com/briones-agent/organicmaps.git
+[submodule "MaterialFiles"]
+	path = MaterialFiles
+	url = https://github.com/briones-agent/MaterialFiles.git
 [submodule "ReadYou"]
 	path = ReadYou
 	url = https://github.com/briones-agent/ReadYou.git
