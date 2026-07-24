@@ -92,6 +92,9 @@
 [submodule "mammoth"]
 	path = mammoth
 	url = https://github.com/briones-agent/mammoth.git
+[submodule "nextcloud-android"]
+	path = nextcloud-android
+	url = https://github.com/briones-agent/nextcloud-android.git
 [submodule "Infinity-For-Reddit"]
 	path = Infinity-For-Reddit
 	url = https://github.com/briones-agent/Infinity-For-Reddit.git
