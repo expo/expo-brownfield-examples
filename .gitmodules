@@ -59,6 +59,9 @@
 [submodule "organicmaps"]
 	path = organicmaps
 	url = https://github.com/briones-agent/organicmaps.git
+[submodule "bitwarden-android"]
+	path = bitwarden-android
+	url = https://github.com/briones-agent/android.git
 [submodule "MaterialFiles"]
 	path = MaterialFiles
 	url = https://github.com/briones-agent/MaterialFiles.git
