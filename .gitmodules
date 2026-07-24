@@ -167,3 +167,6 @@
 [submodule "Auxio"]
 	path = Auxio
 	url = https://github.com/briones-agent/Auxio.git
+[submodule "home-assistant-ios"]
+	path = home-assistant-ios
+	url = https://github.com/briones-agent/iOS.git
