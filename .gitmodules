@@ -177,3 +177,7 @@
 [submodule "Notally"]
 	path = Notally
 	url = https://github.com/briones-agent/Notally.git
+[submodule "WordPress-iOS"]
+	path = WordPress-iOS
+	url = https://github.com/briones-agent/WordPress-iOS.git
+	branch = expo-brownfield-57.0.2
