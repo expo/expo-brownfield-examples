@@ -181,3 +181,6 @@
 	path = WordPress-iOS
 	url = https://github.com/briones-agent/WordPress-iOS.git
 	branch = expo-brownfield-57.0.2
+[submodule "Feeder"]
+	path = Feeder
+	url = https://github.com/briones-agent/Feeder.git
