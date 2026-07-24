@@ -62,3 +62,102 @@
 [submodule "MaterialFiles"]
 	path = MaterialFiles
 	url = https://github.com/briones-agent/MaterialFiles.git
+[submodule "ReadYou"]
+	path = ReadYou
+	url = https://github.com/briones-agent/ReadYou.git
+[submodule "KeePassDX"]
+	path = KeePassDX
+	url = https://github.com/briones-agent/KeePassDX.git
+[submodule "breezy-weather"]
+	path = breezy-weather
+	url = https://github.com/briones-agent/breezy-weather.git
+[submodule "LibreTube"]
+	path = LibreTube
+	url = https://github.com/briones-agent/LibreTube.git
+[submodule "Anki-Android"]
+	path = Anki-Android
+	url = https://github.com/briones-agent/Anki-Android.git
+[submodule "Aegis"]
+	path = Aegis
+	url = https://github.com/briones-agent/Aegis.git
+[submodule "thunderbird-android"]
+	path = thunderbird-android
+	url = https://github.com/briones-agent/thunderbird-android.git
+[submodule "OnionBrowser"]
+	path = OnionBrowser
+	url = https://github.com/briones-agent/OnionBrowser.git
+[submodule "mastodon-ios"]
+	path = mastodon-ios
+	url = https://github.com/briones-agent/mastodon-ios.git
+[submodule "damus"]
+	path = damus
+	url = https://github.com/briones-agent/damus.git
+[submodule "mlem"]
+	path = mlem
+	url = https://github.com/briones-agent/mlem.git
+[submodule "cryptomator-ios"]
+	path = cryptomator-ios
+	url = https://github.com/briones-agent/ios-1.git
+[submodule "kiwix-apple"]
+	path = kiwix-apple
+	url = https://github.com/briones-agent/kiwix-apple.git
+[submodule "openhab-ios"]
+	path = openhab-ios
+	url = https://github.com/briones-agent/openhab-ios.git
+[submodule "mammoth"]
+	path = mammoth
+	url = https://github.com/briones-agent/mammoth.git
+[submodule "bitwarden-ios"]
+	path = bitwarden-ios
+	url = https://github.com/briones-agent/ios-2.git
+[submodule "session-ios"]
+	path = session-ios
+	url = https://github.com/briones-agent/session-ios.git
+	branch = dev
+[submodule "apple-browsers"]
+	path = apple-browsers
+	url = https://github.com/briones-agent/apple-browsers.git
+[submodule "anytype-swift"]
+	path = anytype-swift
+	url = https://github.com/briones-agent/anytype-swift.git
+	branch = develop
+[submodule "wire-ios"]
+	path = wire-ios
+	url = https://github.com/briones-agent/wire-ios.git
+	branch = develop
+[submodule "markor"]
+	path = markor
+	url = https://github.com/briones-agent/markor.git
+[submodule "nextcloud-android"]
+	path = nextcloud-android
+	url = https://github.com/briones-agent/nextcloud-android.git
+[submodule "Infinity-For-Reddit"]
+	path = Infinity-For-Reddit
+	url = https://github.com/briones-agent/Infinity-For-Reddit.git
+[submodule "tasks"]
+	path = tasks
+	url = https://github.com/briones-agent/tasks.git
+[submodule "duckduckgo-android"]
+	path = duckduckgo-android
+	url = https://github.com/briones-agent/duckduckgo-android.git
+[submodule "a-shell"]
+	path = a-shell
+	url = https://github.com/briones-agent/a-shell.git
+[submodule "StreetComplete"]
+	path = StreetComplete
+	url = https://github.com/briones-agent/StreetComplete.git
+[submodule "InnerTune"]
+	path = InnerTune
+	url = https://github.com/briones-agent/InnerTune.git
+[submodule "AmazeFileManager"]
+	path = AmazeFileManager
+	url = https://github.com/briones-agent/AmazeFileManager.git
+[submodule "mihon"]
+	path = mihon
+	url = https://github.com/briones-agent/mihon.git
+[submodule "FairEmail"]
+	path = FairEmail
+	url = https://github.com/briones-agent/FairEmail.git
+[submodule "Auxio"]
+	path = Auxio
+	url = https://github.com/briones-agent/Auxio.git
