@@ -170,3 +170,6 @@
 [submodule "home-assistant-ios"]
 	path = home-assistant-ios
 	url = https://github.com/briones-agent/iOS.git
+[submodule "Notally"]
+	path = Notally
+	url = https://github.com/briones-agent/Notally.git
