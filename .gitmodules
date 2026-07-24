@@ -167,3 +167,7 @@
 [submodule "Auxio"]
 	path = Auxio
 	url = https://github.com/briones-agent/Auxio.git
+[submodule "pocket-casts-android"]
+	path = pocket-casts-android
+	url = https://github.com/briones-agent/pocket-casts-android.git
+	branch = expo-brownfield-two-apps
