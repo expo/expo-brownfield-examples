@@ -59,6 +59,9 @@
 [submodule "organicmaps"]
 	path = organicmaps
 	url = https://github.com/briones-agent/organicmaps.git
+[submodule "breezy-weather"]
+	path = breezy-weather
+	url = https://github.com/briones-agent/breezy-weather.git
 [submodule "LibreTube"]
 	path = LibreTube
 	url = https://github.com/briones-agent/LibreTube.git
