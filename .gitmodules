@@ -92,6 +92,9 @@
 [submodule "mammoth"]
 	path = mammoth
 	url = https://github.com/briones-agent/mammoth.git
+[submodule "tasks"]
+	path = tasks
+	url = https://github.com/briones-agent/tasks.git
 [submodule "duckduckgo-android"]
 	path = duckduckgo-android
 	url = https://github.com/briones-agent/duckduckgo-android.git
