@@ -171,3 +171,6 @@
 	path = pocket-casts-android
 	url = https://github.com/briones-agent/pocket-casts-android.git
 	branch = expo-brownfield-two-apps
+[submodule "home-assistant-ios"]
+	path = home-assistant-ios
+	url = https://github.com/briones-agent/iOS.git
