@@ -181,3 +181,6 @@
 	path = WordPress-iOS
 	url = https://github.com/briones-agent/WordPress-iOS.git
 	branch = expo-brownfield-57.0.2
+[submodule "Trail-Sense"]
+	path = Trail-Sense
+	url = https://github.com/briones-agent/Trail-Sense.git
