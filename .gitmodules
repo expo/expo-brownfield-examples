@@ -177,3 +177,6 @@
 [submodule "Notally"]
 	path = Notally
 	url = https://github.com/briones-agent/Notally.git
+[submodule "RedReader"]
+	path = RedReader
+	url = https://github.com/briones-agent/RedReader.git
