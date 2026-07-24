@@ -177,3 +177,6 @@
 [submodule "Notally"]
 	path = Notally
 	url = https://github.com/briones-agent/Notally.git
+[submodule "Trail-Sense"]
+	path = Trail-Sense
+	url = https://github.com/briones-agent/Trail-Sense.git
