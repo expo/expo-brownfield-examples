@@ -98,3 +98,6 @@
 [submodule "AmazeFileManager"]
 	path = AmazeFileManager
 	url = https://github.com/briones-agent/AmazeFileManager.git
+[submodule "Auxio"]
+	path = Auxio
+	url = https://github.com/briones-agent/Auxio.git
