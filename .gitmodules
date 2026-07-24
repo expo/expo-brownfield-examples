@@ -92,6 +92,10 @@
 [submodule "mammoth"]
 	path = mammoth
 	url = https://github.com/briones-agent/mammoth.git
+[submodule "anytype-swift"]
+	path = anytype-swift
+	url = https://github.com/briones-agent/anytype-swift.git
+	branch = develop
 [submodule "wire-ios"]
 	path = wire-ios
 	url = https://github.com/briones-agent/wire-ios.git
