@@ -92,6 +92,9 @@
 [submodule "mammoth"]
 	path = mammoth
 	url = https://github.com/briones-agent/mammoth.git
+[submodule "StreetComplete"]
+	path = StreetComplete
+	url = https://github.com/briones-agent/StreetComplete.git
 [submodule "InnerTune"]
 	path = InnerTune
 	url = https://github.com/briones-agent/InnerTune.git
