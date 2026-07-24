@@ -59,6 +59,9 @@
 [submodule "organicmaps"]
 	path = organicmaps
 	url = https://github.com/briones-agent/organicmaps.git
+[submodule "ReadYou"]
+	path = ReadYou
+	url = https://github.com/briones-agent/ReadYou.git
 [submodule "KeePassDX"]
 	path = KeePassDX
 	url = https://github.com/briones-agent/KeePassDX.git
