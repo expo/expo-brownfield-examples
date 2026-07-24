@@ -101,3 +101,6 @@
 [submodule "FairEmail"]
 	path = FairEmail
 	url = https://github.com/briones-agent/FairEmail.git
+[submodule "Auxio"]
+	path = Auxio
+	url = https://github.com/briones-agent/Auxio.git
