@@ -92,6 +92,9 @@
 [submodule "mammoth"]
 	path = mammoth
 	url = https://github.com/briones-agent/mammoth.git
+[submodule "Infinity-For-Reddit"]
+	path = Infinity-For-Reddit
+	url = https://github.com/briones-agent/Infinity-For-Reddit.git
 [submodule "tasks"]
 	path = tasks
 	url = https://github.com/briones-agent/tasks.git
