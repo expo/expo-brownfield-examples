@@ -107,3 +107,4 @@ Check commits inside each repo for detailed steps, full instructions can be foun
 2. **Install expo-brownfield**: Add expo-brownfield to your project `npx expo install expo-brownfield` and generate a XCFramework.
 
 3. **Add React Native view**: Integrate the Expo app XCFramework into the existing iOS app.
+- [simplenote-ios](https://github.com/briones-agent/simplenote-ios): Shared-package approach (SDK 57) — **Simplenote**, a notes app, consuming `ExpoBrownfieldPackage`; overlay-window "Expo" button bootstrapped from the ObjC `SPAppDelegate` (`[ExpoIntegration bootstrap]`). Notable: **ad-hoc signing** needed (the app-group Core Data container asserts under `CODE_SIGNING_ALLOWED=NO`), SwiftLint `--strict` build phase, deployment target 15→16.4 ([recording](https://raw.githubusercontent.com/expo/expo-brownfield-examples/media/178-simplenote-ios/recording.mp4))

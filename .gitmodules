@@ -202,3 +202,7 @@
 [submodule "Feeder"]
 	path = Feeder
 	url = https://github.com/briones-agent/Feeder.git
+[submodule "simplenote-ios"]
+	path = simplenote-ios
+	url = https://github.com/briones-agent/simplenote-ios.git
+	branch = trunk
