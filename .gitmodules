@@ -202,3 +202,6 @@
 [submodule "Feeder"]
 	path = Feeder
 	url = https://github.com/briones-agent/Feeder.git
+[submodule "wikipedia-ios"]
+	path = wikipedia-ios
+	url = https://github.com/briones-agent/wikipedia-ios.git
