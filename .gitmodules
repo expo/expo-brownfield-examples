@@ -190,3 +190,15 @@
 [submodule "jerboa"]
 	path = jerboa
 	url = https://github.com/briones-agent/jerboa.git
+[submodule "openhab-android"]
+	path = openhab-android
+	url = https://github.com/briones-agent/openhab-android.git
+[submodule "wallabag-android"]
+	path = wallabag-android
+	url = https://github.com/briones-agent/android-app.git
+[submodule "AuroraStore"]
+	path = AuroraStore
+	url = https://github.com/briones-agent/AuroraStore.git
+[submodule "Feeder"]
+	path = Feeder
+	url = https://github.com/briones-agent/Feeder.git
