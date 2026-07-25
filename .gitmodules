@@ -187,3 +187,6 @@
 [submodule "RedReader"]
 	path = RedReader
 	url = https://github.com/briones-agent/RedReader.git
+[submodule "openhab-android"]
+	path = openhab-android
+	url = https://github.com/briones-agent/openhab-android.git
