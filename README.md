@@ -107,3 +107,4 @@ Check commits inside each repo for detailed steps, full instructions can be foun
 2. **Install expo-brownfield**: Add expo-brownfield to your project `npx expo install expo-brownfield` and generate a XCFramework.
 
 3. **Add React Native view**: Integrate the Expo app XCFramework into the existing iOS app.
+- [passepartout](https://github.com/briones-agent/passepartout): Shared-package approach (SDK 57) — **Passepartout**, an OpenVPN/WireGuard client (SwiftUI), consuming `ExpoBrownfieldPackage`; overlay-window "Expo" button bootstrapped from the iOS `AppDelegate`. Its `partout` VPN core uses **prebuilt** openssl/wg-go xcframeworks (no local native build). Built with ad-hoc signing (app groups) ([recording](https://raw.githubusercontent.com/expo/expo-brownfield-examples/media/180-passepartout/recording.mp4))
