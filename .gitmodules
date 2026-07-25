@@ -187,3 +187,6 @@
 [submodule "RedReader"]
 	path = RedReader
 	url = https://github.com/briones-agent/RedReader.git
+[submodule "jerboa"]
+	path = jerboa
+	url = https://github.com/briones-agent/jerboa.git
