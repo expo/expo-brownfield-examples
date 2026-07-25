@@ -187,3 +187,6 @@
 [submodule "RedReader"]
 	path = RedReader
 	url = https://github.com/briones-agent/RedReader.git
+[submodule "wallabag-android"]
+	path = wallabag-android
+	url = https://github.com/briones-agent/android-app.git
