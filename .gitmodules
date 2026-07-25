@@ -202,3 +202,7 @@
 [submodule "Feeder"]
 	path = Feeder
 	url = https://github.com/briones-agent/Feeder.git
+[submodule "session-android"]
+	path = session-android
+	url = https://github.com/briones-agent/session-android.git
+	branch = dev
