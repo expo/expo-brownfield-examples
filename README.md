@@ -107,3 +107,4 @@ Check commits inside each repo for detailed steps, full instructions can be foun
 2. **Install expo-brownfield**: Add expo-brownfield to your project `npx expo install expo-brownfield` and generate a XCFramework.
 
 3. **Add React Native view**: Integrate the Expo app XCFramework into the existing iOS app.
+- [gladys](https://github.com/briones-agent/gladys): Shared-package approach (SDK 57) — **Gladys**, a drag-and-drop shelf app (SwiftUI/UIKit), consuming `ExpoBrownfieldPackage`; overlay-window "Expo" button from the `AppDelegate`. Detached its Watch app for the simulator build; iOS 26.0 deployment ([recording](https://raw.githubusercontent.com/expo/expo-brownfield-examples/media/184-gladys/recording.mp4))
