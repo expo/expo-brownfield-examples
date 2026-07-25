@@ -187,6 +187,9 @@
 [submodule "RedReader"]
 	path = RedReader
 	url = https://github.com/briones-agent/RedReader.git
+[submodule "AuroraStore"]
+	path = AuroraStore
+	url = https://github.com/briones-agent/AuroraStore.git
 [submodule "Feeder"]
 	path = Feeder
 	url = https://github.com/briones-agent/Feeder.git
