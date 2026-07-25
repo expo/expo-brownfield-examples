@@ -199,3 +199,6 @@
 [submodule "Feeder"]
 	path = Feeder
 	url = https://github.com/briones-agent/Feeder.git
+[submodule "cgeo"]
+	path = cgeo
+	url = https://github.com/briones-agent/cgeo.git
