@@ -107,3 +107,4 @@ Check commits inside each repo for detailed steps, full instructions can be foun
 2. **Install expo-brownfield**: Add expo-brownfield to your project `npx expo install expo-brownfield` and generate a XCFramework.
 
 3. **Add React Native view**: Integrate the Expo app XCFramework into the existing iOS app.
+- [icecubesapp](https://github.com/briones-agent/icecubesapp): Shared-package approach (SDK 57) — **Ice Cubes**, a Mastodon client (SwiftUI), consuming the prebuilt `ExpoBrownfieldPackage` Swift package; a floating "Expo" button on a dedicated overlay `UIWindow` presents the RN screen, bootstrapped from `AppDelegate`. Xcode-16 synchronized-folder project, deployment target 16.4+ ([recording](https://raw.githubusercontent.com/expo/expo-brownfield-examples/media/176-icecubesapp/recording.mp4))
