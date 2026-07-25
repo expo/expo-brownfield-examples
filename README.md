@@ -107,3 +107,4 @@ Check commits inside each repo for detailed steps, full instructions can be foun
 2. **Install expo-brownfield**: Add expo-brownfield to your project `npx expo install expo-brownfield` and generate a XCFramework.
 
 3. **Add React Native view**: Integrate the Expo app XCFramework into the existing iOS app.
+- [netnewswire](https://github.com/briones-agent/netnewswire): Shared-package approach (SDK 57) — **NetNewsWire**, an RSS reader, consuming `ExpoBrownfieldPackage`; overlay-window "Expo" button bootstrapped from the iOS `AppDelegate`. Notable: `@MainActor` ExpoIntegration for Swift 6 strict concurrency + `-warnings-as-errors`, and committing an empty `SecretKey` stub (dropping the `.gyb` generator) so the fork builds ([recording](https://raw.githubusercontent.com/expo/expo-brownfield-examples/media/177-netnewswire/recording.mp4))
