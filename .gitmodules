@@ -202,3 +202,7 @@
 [submodule "Feeder"]
 	path = Feeder
 	url = https://github.com/briones-agent/Feeder.git
+[submodule "element-x-android"]
+	path = element-x-android
+	url = https://github.com/briones-agent/element-x-android.git
+	branch = develop
