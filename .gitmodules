@@ -184,3 +184,6 @@
 [submodule "Trail-Sense"]
 	path = Trail-Sense
 	url = https://github.com/briones-agent/Trail-Sense.git
+[submodule "RedReader"]
+	path = RedReader
+	url = https://github.com/briones-agent/RedReader.git
