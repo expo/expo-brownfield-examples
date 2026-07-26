@@ -202,3 +202,6 @@
 [submodule "Feeder"]
 	path = Feeder
 	url = https://github.com/briones-agent/Feeder.git
+[submodule "talk-ios"]
+	path = talk-ios
+	url = https://github.com/briones-agent/talk-ios.git
