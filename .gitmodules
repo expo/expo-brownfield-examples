@@ -202,6 +202,9 @@
 [submodule "Feeder"]
 	path = Feeder
 	url = https://github.com/briones-agent/Feeder.git
+[submodule "wikipedia-android"]
+	path = wikipedia-android
+	url = https://github.com/briones-agent/apps-android-wikipedia.git
 [submodule "fdroidclient"]
 	path = fdroidclient
 	url = https://github.com/briones-agent/fdroidclient.git
