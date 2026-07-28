@@ -205,3 +205,53 @@
 [submodule "wireguard-android"]
 	path = wireguard-android
 	url = https://github.com/briones-agent/wireguard-android.git
+[submodule "protonmail-android"]
+	path = protonmail-android
+	url = https://github.com/briones-agent/android-mail.git
+[submodule "protonvpn-android"]
+	path = protonvpn-android
+	url = https://github.com/briones-agent/android-app-1.git
+[submodule "session-android"]
+	path = session-android
+	url = https://github.com/briones-agent/session-android.git
+	branch = dev
+[submodule "anytype-kotlin"]
+	path = anytype-kotlin
+	url = https://github.com/briones-agent/anytype-kotlin.git
+[submodule "element-x-android"]
+	path = element-x-android
+	url = https://github.com/briones-agent/element-x-android.git
+	branch = develop
+[submodule "voice"]
+	path = voice
+	url = https://github.com/briones-agent/Voice.git
+[submodule "cryptomator-android"]
+	path = cryptomator-android
+	url = https://github.com/briones-agent/cryptomator-android.git
+	branch = develop
+[submodule "tusky"]
+	path = tusky
+	url = https://github.com/briones-agent/Tusky.git
+	branch = develop
+[submodule "cgeo"]
+	path = cgeo
+	url = https://github.com/briones-agent/cgeo.git
+[submodule "2fas-android"]
+	path = 2fas-android
+	url = https://github.com/briones-agent/2fas-android.git
+	branch = develop
+[submodule "home-assistant-android"]
+	path = home-assistant-android
+	url = https://github.com/briones-agent/android-1.git
+[submodule "amethyst"]
+	path = amethyst
+	url = https://github.com/briones-agent/amethyst.git
+[submodule "wikipedia-android"]
+	path = wikipedia-android
+	url = https://github.com/briones-agent/apps-android-wikipedia.git
+[submodule "fdroidclient"]
+	path = fdroidclient
+	url = https://github.com/briones-agent/fdroidclient.git
+[submodule "capyreader"]
+	path = capyreader
+	url = https://github.com/briones-agent/capyreader.git
