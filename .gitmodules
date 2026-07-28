@@ -202,6 +202,9 @@
 [submodule "Feeder"]
 	path = Feeder
 	url = https://github.com/briones-agent/Feeder.git
+[submodule "gladys"]
+	path = gladys
+	url = https://github.com/briones-agent/gladys.git
 [submodule "passepartout"]
 	path = passepartout
 	url = https://github.com/briones-agent/passepartout.git
