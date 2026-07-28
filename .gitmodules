@@ -205,3 +205,6 @@
 [submodule "fdroidclient"]
 	path = fdroidclient
 	url = https://github.com/briones-agent/fdroidclient.git
+[submodule "capyreader"]
+	path = capyreader
+	url = https://github.com/briones-agent/capyreader.git
