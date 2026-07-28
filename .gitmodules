@@ -202,6 +202,10 @@
 [submodule "Feeder"]
 	path = Feeder
 	url = https://github.com/briones-agent/Feeder.git
+[submodule "2fas-android"]
+	path = 2fas-android
+	url = https://github.com/briones-agent/2fas-android.git
+	branch = develop
 [submodule "home-assistant-android"]
 	path = home-assistant-android
 	url = https://github.com/briones-agent/android-1.git
