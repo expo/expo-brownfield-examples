@@ -202,6 +202,9 @@
 [submodule "Feeder"]
 	path = Feeder
 	url = https://github.com/briones-agent/Feeder.git
+[submodule "syncthing-android"]
+	path = syncthing-android
+	url = https://github.com/briones-agent/syncthing-android.git
 [submodule "wireguard-android"]
 	path = wireguard-android
 	url = https://github.com/briones-agent/wireguard-android.git
