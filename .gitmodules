@@ -205,3 +205,15 @@
 [submodule "home-assistant-android"]
 	path = home-assistant-android
 	url = https://github.com/briones-agent/android-1.git
+[submodule "amethyst"]
+	path = amethyst
+	url = https://github.com/briones-agent/amethyst.git
+[submodule "wikipedia-android"]
+	path = wikipedia-android
+	url = https://github.com/briones-agent/apps-android-wikipedia.git
+[submodule "fdroidclient"]
+	path = fdroidclient
+	url = https://github.com/briones-agent/fdroidclient.git
+[submodule "capyreader"]
+	path = capyreader
+	url = https://github.com/briones-agent/capyreader.git
