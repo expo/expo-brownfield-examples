@@ -202,6 +202,10 @@
 [submodule "Feeder"]
 	path = Feeder
 	url = https://github.com/briones-agent/Feeder.git
+[submodule "cryptomator-android"]
+	path = cryptomator-android
+	url = https://github.com/briones-agent/cryptomator-android.git
+	branch = develop
 [submodule "tusky"]
 	path = tusky
 	url = https://github.com/briones-agent/Tusky.git
