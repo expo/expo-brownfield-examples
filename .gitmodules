@@ -277,3 +277,6 @@
 [submodule "capyreader"]
 	path = capyreader
 	url = https://github.com/briones-agent/capyreader.git
+[submodule "nostur"]
+	path = nostur
+	url = https://github.com/briones-agent/nostur-ios-public.git
