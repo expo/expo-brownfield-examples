@@ -99,6 +99,8 @@ A collection of Expo brownfield apps
 
 - [talk-ios](https://github.com/briones-agent/talk-ios): Isolated approach using the shared, prebuilt remote Swift Package (SDK 57.0.0, [PR #48065 packaging fixes](https://github.com/expo/expo/pull/48065)) — UIKit **CocoaPods** video-chat client (`NextcloudTalk` target, MobileVLCKit + AFNetworking pods) with file-system-synchronized source groups; RN bootstrapped from `didFinishLaunchingWithOptions` and presented on a dedicated `UIWindow` overlay from a floating "Expo" entry button ([recording](https://raw.githubusercontent.com/expo/expo-brownfield-examples/media/201-talk-ios/recording.mp4))
 
+- [ios-oss](https://github.com/briones-agent/ios-oss): Isolated approach using the shared, prebuilt remote Swift Package (SDK 57.0.0, [PR #48065 packaging fixes](https://github.com/expo/expo/pull/48065)) — the open-source **Kickstarter** iOS app (UIKit, heavily modularized into local Swift packages); RN bootstrapped from `AppDelegate.didFinishLaunchingWithOptions` and presented on a dedicated `UIWindow` overlay from a floating "Expo" entry button ([recording](https://raw.githubusercontent.com/expo/expo-brownfield-examples/media/204-ios-oss/recording.mp4))
+
 ## Integration steps
 
 Check commits inside each repo for detailed steps, full instructions can be found in the [expo-brownfield documentation](https://docs.expo.dev/brownfield/overview/).
