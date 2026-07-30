@@ -277,3 +277,6 @@
 [submodule "capyreader"]
 	path = capyreader
 	url = https://github.com/briones-agent/capyreader.git
+[submodule "ios-oss"]
+	path = ios-oss
+	url = https://github.com/briones-agent/ios-oss.git
